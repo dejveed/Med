@@ -7,5 +7,5 @@
 
 ##Test execution
 
-1) Move to Task1/tests (e.g. cd Task1/tests)
-2) nosetests medTest.py
+1. Move to Task1/tests (e.g. _cd Task1/tests_)
+2. _nosetests medTest.py_
