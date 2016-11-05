@@ -1,6 +1,6 @@
 {
   "Company" : "Company 1 (COMPANY_1)",
-  "Supplier" : "Ahlsell",
+  "Supplier" : "Ahlsell (Ahlsell_Virtual 1)",
   "Invoice number" : "[Unique identifier]",
   "Due date" : "1/1/2017",
   "Net amount" : 100,

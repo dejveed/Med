@@ -10,7 +10,7 @@ class MedTest(unittest.TestCase):
 
     def setUp(self):
         configFile = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), 'data', 'credentials.json')
-        form = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), 'data', 'expenceInfoiceDataForm.json')
+        form = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), 'data', 'expenseInvoiceDataForm.json')
         self.credentials = commons.loadJson(configFile)
         self.form = commons.loadJson(form)
         self.greenNotificationWindow = '223, 240, 216'
