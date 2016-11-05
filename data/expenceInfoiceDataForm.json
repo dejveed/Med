@@ -1,9 +1,0 @@
-{
-  "Company" : "Company 1 (COMPANY_1)",
-  "Supplier" : "Ahlsell",
-  "Invoice number" : "[Unique identifier]",
-  "Due date" : "1/1/2017",
-  "Net amount" : 100,
-  "Tax amount" : 23,
-  "Total" : 123
-}
